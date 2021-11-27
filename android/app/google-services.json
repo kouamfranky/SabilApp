@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "460396394407",
+    "project_id": "sabilapp-ef04b",
+    "storage_bucket": "sabilapp-ef04b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:460396394407:android:f6b59f06c5695801d2e882",
+        "android_client_info": {
+          "package_name": "com.example.sabilapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "460396394407-p5umad82ir9954beg0884f2puc0qdpql.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCvf6_t2I4d8WbByJj5YOsUxvcG9GkQL9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "460396394407-p5umad82ir9954beg0884f2puc0qdpql.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
